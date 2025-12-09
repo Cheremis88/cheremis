@@ -1,0 +1,20 @@
+body {
+  background-color: #101535;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100svh;
+  color: #f49725;
+  font-family: Arial, sans-serif;
+}
+
+.hide {
+  visibility: hidden;
+}
+
+.hello {
+  padding: 10px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 400;
+}
